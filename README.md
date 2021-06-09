@@ -16,3 +16,5 @@
 ```c
 printf("We look forward to seeing you join us.");
 ```
+> [Trash-VV](https://github.com/trash-vv)成员之一，我们随时欢迎你的加入！
+> 
